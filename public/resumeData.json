@@ -1,0 +1,194 @@
+{
+  "main": {
+    "name":"Resume in React",
+    "description":"1. 具備前端(desktop & mobile web)雲平台App開發，及與後端開發人員合作經驗。 2. 熟悉PHP，RWD，HTML5，CSS3，jQuery，JAVASCRIPT，SQL，MySQL及CMS管理。 3. 熟悉四大SEO搜尋引擎關鍵字排序操作及指標優化。Google(歐)，Bing(美)，Baidu(中)，Yandex(蘇)，並有多國語言經驗。 4. 熟悉PS及文案撰寫,可協助行銷團隊FB,IG,TT,WP, Line等會員系統維護更新及推廣。 5. 熟悉網站日常安全維護及系統表現優化。 6. 可依照專案規模調整和國外SEO團隊合作流量及排名提升。",
+    "image":"logo.png",
+    "bio":"希望職稱: KOL Web & SEO, Scrum Master, 大數據研發架構師, IT顧問工程師, 資料分析及品牌經營, Wordpress UXUI, GSC / SEO Ranking, WP SEO顧問,UI/UX界面設計, RWD界面設計, 大數據應用行銷。 希望職類:網站行銷企劃、電子商務技術主管、應用科學研究員、系統分析師、網頁設計師。 希望產業:軟體及網路相關業、光電及光學相關業、資料儲存媒體製造及複製業、運動及旅遊休閒服務業、紡織業。",
+    "contactmessage":"您可以Email: simonchang1108@gmail.com",
+    "email": "simonchang1108@gmail.com",
+    "phone": "0972025608",
+    "github":"https://gym.talent101.com.tw/",
+    "project":"https://talent101.com.tw",
+	"project3":"https://innodesigner101.com",
+    "address":{
+      "street":"連絡地址: 士林區德行東路",
+      "city":"台北市",
+      "state":"台灣 111",
+      "zip": "希望性質: 全職工作、兼職工作。上班時段:日班、晚班。可上班日:錄取後一週可上班。希望待遇:面議。希望地點:台北市、新北市。"
+    },
+    "website": "https://myworks-sc.herokuapp.com",
+    "resumedownload":"https://pda.104.com.tw/profile/download?vno=74rk3wa0w",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"軟體專案技能如下:",
+    "education":[
+      {
+        "school":"淡江大學",
+        "degree":"教育資料學系",
+        "graduated":"1994",
+        "description":"那時是Unix,Linux,Dos的年代,媒體儲存介於磁帶,磁碟片,磁盤及關連資料庫興起的年代,win95及光碟尚未出現,大家學html,VB,C,Dbase,Pe2,Lotus"
+      },
+      {
+        "school":"北士商",
+        "degree":"綜商",
+        "graduated":"1988",
+        "description":"那時只有計算機概論,高中生學DOS,玩磁碟片"
+      }
+    ],
+    "work":[
+      {
+        "company":"Mobile King Co.,ltd",
+        "title":"Engineer",
+        "years":"May 2017 - May 2021",
+        "description":"主要工作:主機及網站代管,效能維護,資料備份及轉移,紡織品牌推廣及與紡拓會合作資料分享,日常資料建立及維護更新,異業合作等等"
+      },
+      {
+        "company":"AMC Co.,ltd",
+        "title":"Engineer",
+        "years":"Mar 2016 - Mar 2017",
+        "description":"Marketing website, Data building"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Html",
+        "level":"80%"
+      },
+      {
+        "name":"JS",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+	  {
+        "name":"Figma",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"60%"
+      },
+      {
+        "name":"Mysql",
+        "level":"60%"
+      },
+	   {
+        "name":"Sql",
+        "level":"50%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Sunrise of Azerbaijan mnt.",
+        "category":"Painting, 31.5 H x 47.2 W x 1.2 in",
+        "image":"1.jpg",
+        "url":"https://www.saatchiart.com/art/Painting-sunrise-of-Azerbaijan-mountains/882534/3004492/view"
+      },
+      {
+        "title":"Spring of YangMing mnt.",
+        "category":"Painting, 31.5 H x 47.2 W x 1.2 in",
+        "image":"2.jpg",
+        "url":"https://www.saatchiart.com/art/Painting-spring-of-YangMing-mountain/882534/2996609/view"
+      },
+      {
+        "title":"Summer of Ayers rock",
+        "category":"Painting, 31.5 H x 47.2 W x 1.2 in",
+        "image":"3.jpg",
+        "url":"https://www.saatchiart.com/art/Painting-summer-of-Ayers-rock/882534/2985574/view"
+      },
+      {
+        "title":"Summer of Galilee beach",
+        "category":"Painting, 31.5 H x 47.2 W x 1.2 in",
+        "image":"4.jpg",
+        "url":"https://www.saatchiart.com/art/Painting-summer-of-Galilee-beach/882534/2982123/view"
+      },
+      {
+        "title":"Sunrise of Olympic mnt.",
+        "category":"Painting, 31.5 H x 47.2 W x 1.2 in",
+        "image":"5.jpg",
+        "url":"https://www.saatchiart.com/art/Painting-Sunrise-of-Olympic-mountains/882534/2980660/view"
+      },
+      {
+        "title":"Sunrise of YangSho mountain",
+        "category":"Photography, 31.5 H x 47.2 W x 1.2 in",
+        "image":"6.jpg",
+        "url":"https://www.saatchiart.com/art/Photography-Sunrise-of-YangSho-mountain/882534/2979385/view"
+      },
+      {
+        "title":"Sunrise of Evergreen mnt.",
+        "category":"Painting Size: 31.5 H x 47.2 W x 1.2 in",
+        "image":"7.jpg",
+        "url":"https://www.saatchiart.com/art/Painting-Sunrise-of-Evergreen-mountain/882534/2972710/view"
+      },
+      {
+        "title":"Spring of Shikotan island",
+        "category":"Size: 19.7 H x 29.5 W x 1.2 in",
+        "image":"8.jpg",
+        "url":"https://www.saatchiart.com/art/Painting-spring-of-Shikotan-island/882534/2970243/view"
+      },
+      {
+        "title":"Dance with Alps mountain",
+        "category":"Painting Size: 31.5 H x 47.2 W x 1.2 in",
+        "image":"9.jpg",
+        "url":"https://www.saatchiart.com/art/Painting-dance-with-Alps-mountain/882534/2974118/view"
+      },
+      {
+        "title":"Wild hills in Mogolia",
+        "category":"Painting Size: 23.6 H x 35.4 W x 1.2 in",
+        "image":"10.jpg",
+        "url":"https://www.saatchiart.com/art/Painting-wild-hills-in-Mogolia/882534/2974132/view"
+      },
+      {
+        "title":"Aurora of Iceland mountain",
+        "category":"Painting Size: 31.5 H x 47.2 W x 1.2 in",
+        "image":"11.jpg",
+        "url":"https://www.saatchiart.com/art/Photography-aurora-of-Iceland-mountain/882534/2977413/view"
+      },
+      {
+        "title":"Snow Mountain",
+        "category":"Painting Size: 31.5 H x 47.2 W x 1.2 in",
+        "image":"12.jpg",
+        "url":"https://www.saatchiart.com/art/Painting-snow-mountain/882534/2977418/view"
+      }
+    ]
+  }
+}
